@@ -1,0 +1,36 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: rgba(128, 128, 128, 0.263);
+}
+button {
+  height: 50px;
+  width: 150px;
+  padding: 1rem;
+  border: 1px solid grey;
+  border-radius: 5px;
+  margin: 5px 10px;
+  background-color: ghostwhite;
+  cursor: pointer;
+  font-size: 18px;
+}
+li {
+  list-style-type: none;
+  height: 75px;
+  width: 300px;
+  text-align: left;
+  padding: 10px;
+  margin: 5px;
+  border: 1px solid grey;
+  background-color: ghostwhite;
+  border-radius: 5px;
+}
+.container {
+  position: absolute;
+  left: 10%;
+  color: rgb(50, 99, 205);
+  background-color: rgba(128, 128, 128, 0.363);
+  border-radius: 5px;
+}
